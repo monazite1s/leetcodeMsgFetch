@@ -1,0 +1,558 @@
+[
+  {
+    "id": 1,
+    "name": "任博轩",
+    "username": "erickren",
+    "realname": "初阳",
+    "canlendar": {
+      "1687046400": 3,
+      "1687132800": 3,
+      "1687564800": 1,
+      "1689379200": 8,
+      "1689465600": 4,
+      "1689552000": 11,
+      "1689638400": 22,
+      "1689724800": 19,
+      "1689811200": 15,
+      "1689984000": 8,
+      "1690070400": 3,
+      "1690156800": 12,
+      "1690243200": 12,
+      "1690329600": 5,
+      "1690502400": 4,
+      "1701302400": 5,
+      "1701388800": 3,
+      "1701475200": 8,
+      "1701561600": 14,
+      "1701648000": 2,
+      "1701734400": 2,
+      "1701820800": 1,
+      "1701907200": 2,
+      "1701993600": 2,
+      "1702080000": 2,
+      "1702166400": 1,
+      "1702252800": 1,
+      "1702339200": 5,
+      "1702425600": 17,
+      "1702512000": 7,
+      "1702598400": 22,
+      "1702684800": 10,
+      "1702771200": 10,
+      "1702857600": 10,
+      "1702944000": 10,
+      "1703030400": 12,
+      "1703116800": 7,
+      "1703203200": 9,
+      "1703289600": 6,
+      "1703376000": 14,
+      "1703462400": 22,
+      "1703548800": 7,
+      "1703635200": 11,
+      "1703721600": 8,
+      "1703808000": 9,
+      "1703894400": 3,
+      "1703980800": 4,
+      "1704067200": 5,
+      "1704153600": 9,
+      "1704240000": 6,
+      "1704326400": 6,
+      "1704412800": 10,
+      "1704499200": 1,
+      "1704585600": 1,
+      "1704672000": 6,
+      "1704758400": 9,
+      "1704844800": 6,
+      "1704931200": 13,
+      "1705017600": 1,
+      "1705104000": 6,
+      "1705190400": 1,
+      "1705276800": 1,
+      "1705363200": 1,
+      "1705449600": 9,
+      "1705536000": 2,
+      "1705622400": 5,
+      "1705708800": 1,
+      "1705795200": 5,
+      "1705881600": 2,
+      "1705968000": 5,
+      "1706054400": 2,
+      "1706140800": 5,
+      "1706227200": 2,
+      "1706313600": 1,
+      "1706400000": 1,
+      "1706486400": 11,
+      "1706572800": 14,
+      "1706659200": 10,
+      "1706745600": 7,
+      "1706832000": 9,
+      "1706918400": 7,
+      "1707004800": 2,
+      "1707091200": 17,
+      "1707177600": 13,
+      "1707264000": 5,
+      "1707350400": 12,
+      "1707436800": 9,
+      "1707523200": 9,
+      "1707609600": 2,
+      "1707696000": 1,
+      "1707782400": 8,
+      "1707868800": 1,
+      "1707955200": 1,
+      "1708041600": 1,
+      "1708128000": 1,
+      "1708214400": 1,
+      "1708300800": 1,
+      "1708387200": 1,
+      "1708473600": 1,
+      "1708560000": 1,
+      "1708646400": 1,
+      "1708732800": 1,
+      "1708819200": 16,
+      "1708905600": 8,
+      "1708992000": 15,
+      "1709078400": 12,
+      "1709164800": 16,
+      "1709251200": 7,
+      "1709337600": 1,
+      "1709424000": 4,
+      "1709510400": 1,
+      "1709596800": 7,
+      "1709683200": 2,
+      "1709769600": 14,
+      "1709856000": 2,
+      "1709942400": 1,
+      "1710028800": 1,
+      "1710115200": 4,
+      "1710201600": 1,
+      "1710288000": 4,
+      "1710374400": 1,
+      "1710547200": 3,
+      "1710633600": 1,
+      "1710720000": 8,
+      "1710806400": 1,
+      "1710892800": 10,
+      "1710979200": 8,
+      "1711065600": 5,
+      "1711152000": 5,
+      "1711238400": 2,
+      "1711324800": 1,
+      "1711411200": 5,
+      "1711497600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 517303494,
+        "submitTime": 1711532714,
+        "question": {
+          "title": "Count Ways to Group Overlapping Ranges",
+          "translatedTitle": "统计将重叠区间合并成组的方案数",
+          "titleSlug": "count-ways-to-group-overlapping-ranges",
+          "questionFrontendId": "2580"
+        }
+      },
+      {
+        "submissionId": 516976594,
+        "submitTime": 1711460338,
+        "question": {
+          "title": "Maximum Product Subarray",
+          "translatedTitle": "乘积最大子数组",
+          "titleSlug": "maximum-product-subarray",
+          "questionFrontendId": "152"
+        }
+      },
+      {
+        "submissionId": 516965787,
+        "submitTime": 1711459131,
+        "question": {
+          "title": "Partition Labels",
+          "translatedTitle": "划分字母区间",
+          "titleSlug": "partition-labels",
+          "questionFrontendId": "763"
+        }
+      },
+      {
+        "submissionId": 516962443,
+        "submitTime": 1711458748,
+        "question": {
+          "title": "Word Break",
+          "translatedTitle": "单词拆分",
+          "titleSlug": "word-break",
+          "questionFrontendId": "139"
+        }
+      },
+      {
+        "submissionId": 516703362,
+        "submitTime": 1711423268,
+        "question": {
+          "title": "Design Graph With Shortest Path Calculator",
+          "translatedTitle": "设计可以求最短路径的图类",
+          "titleSlug": "design-graph-with-shortest-path-calculator",
+          "questionFrontendId": "2642"
+        }
+      },
+      {
+        "submissionId": 516339212,
+        "submitTime": 1711349127,
+        "question": {
+          "title": "Coin Change II",
+          "translatedTitle": "零钱兑换 II",
+          "titleSlug": "coin-change-ii",
+          "questionFrontendId": "518"
+        }
+      },
+      {
+        "submissionId": 516035814,
+        "submitTime": 1711272964,
+        "question": {
+          "title": "Coin Change",
+          "translatedTitle": "零钱兑换",
+          "titleSlug": "coin-change",
+          "questionFrontendId": "322"
+        }
+      },
+      {
+        "submissionId": 515764561,
+        "submitTime": 1711206259,
+        "question": {
+          "title": "Coin Change",
+          "translatedTitle": "零钱兑换",
+          "titleSlug": "coin-change",
+          "questionFrontendId": "322"
+        }
+      },
+      {
+        "submissionId": 515762133,
+        "submitTime": 1711205827,
+        "question": {
+          "title": "Perfect Squares",
+          "translatedTitle": "完全平方数",
+          "titleSlug": "perfect-squares",
+          "questionFrontendId": "279"
+        }
+      },
+      {
+        "submissionId": 515758088,
+        "submitTime": 1711205102,
+        "question": {
+          "title": "Maximum Absolute Sum of Any Subarray",
+          "translatedTitle": "任意子数组和的绝对值的最大值",
+          "titleSlug": "maximum-absolute-sum-of-any-subarray",
+          "questionFrontendId": "1749"
+        }
+      },
+      {
+        "submissionId": 515572990,
+        "submitTime": 1711176218,
+        "question": {
+          "title": "Count Distinct Numbers on Board",
+          "translatedTitle": "统计桌面上的不同数字",
+          "titleSlug": "count-distinct-numbers-on-board",
+          "questionFrontendId": "2549"
+        }
+      },
+      {
+        "submissionId": 515340654,
+        "submitTime": 1711103290,
+        "question": {
+          "title": "Find the Substring With Maximum Cost",
+          "translatedTitle": "找到最大开销的子字符串",
+          "titleSlug": "find-the-substring-with-maximum-cost",
+          "questionFrontendId": "2606"
+        }
+      },
+      {
+        "submissionId": 515329890,
+        "submitTime": 1711101099,
+        "question": {
+          "title": "Maximum Subarray",
+          "translatedTitle": "最大子数组和",
+          "titleSlug": "maximum-subarray",
+          "questionFrontendId": "53"
+        }
+      },
+      {
+        "submissionId": 515223627,
+        "submitTime": 1711088964,
+        "question": {
+          "title": "Minimum Number of Visited Cells in a Grid",
+          "translatedTitle": "网格图中最少访问的格子数",
+          "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+          "questionFrontendId": "2617"
+        }
+      },
+      {
+        "submissionId": 514900747,
+        "submitTime": 1711015037,
+        "question": {
+          "title": "Find All Duplicates in an Array",
+          "translatedTitle": "数组中重复的数据",
+          "titleSlug": "find-all-duplicates-in-an-array",
+          "questionFrontendId": "442"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "任博轩2",
+    "username": "erickren2",
+    "realname": "初阳",
+    "canlendar": {
+      "1687046400": 3,
+      "1687132800": 3,
+      "1687564800": 1,
+      "1689379200": 8,
+      "1689465600": 4,
+      "1689552000": 11,
+      "1689638400": 22,
+      "1689724800": 19,
+      "1689811200": 15,
+      "1689984000": 8,
+      "1690070400": 3,
+      "1690156800": 12,
+      "1690243200": 12,
+      "1690329600": 5,
+      "1690502400": 4,
+      "1701302400": 5,
+      "1701388800": 3,
+      "1701475200": 8,
+      "1701561600": 14,
+      "1701648000": 2,
+      "1701734400": 2,
+      "1701820800": 1,
+      "1701907200": 2,
+      "1701993600": 2,
+      "1702080000": 2,
+      "1702166400": 1,
+      "1702252800": 1,
+      "1702339200": 5,
+      "1702425600": 17,
+      "1702512000": 7,
+      "1702598400": 22,
+      "1702684800": 10,
+      "1702771200": 10,
+      "1702857600": 10,
+      "1702944000": 10,
+      "1703030400": 12,
+      "1703116800": 7,
+      "1703203200": 9,
+      "1703289600": 6,
+      "1703376000": 14,
+      "1703462400": 22,
+      "1703548800": 7,
+      "1703635200": 11,
+      "1703721600": 8,
+      "1703808000": 9,
+      "1703894400": 3,
+      "1703980800": 4,
+      "1704067200": 5,
+      "1704153600": 9,
+      "1704240000": 6,
+      "1704326400": 6,
+      "1704412800": 10,
+      "1704499200": 1,
+      "1704585600": 1,
+      "1704672000": 6,
+      "1704758400": 9,
+      "1704844800": 6,
+      "1704931200": 13,
+      "1705017600": 1,
+      "1705104000": 6,
+      "1705190400": 1,
+      "1705276800": 1,
+      "1705363200": 1,
+      "1705449600": 9,
+      "1705536000": 2,
+      "1705622400": 5,
+      "1705708800": 1,
+      "1705795200": 5,
+      "1705881600": 2,
+      "1705968000": 5,
+      "1706054400": 2,
+      "1706140800": 5,
+      "1706227200": 2,
+      "1706313600": 1,
+      "1706400000": 1,
+      "1706486400": 11,
+      "1706572800": 14,
+      "1706659200": 10,
+      "1706745600": 7,
+      "1706832000": 9,
+      "1706918400": 7,
+      "1707004800": 2,
+      "1707091200": 17,
+      "1707177600": 13,
+      "1707264000": 5,
+      "1707350400": 12,
+      "1707436800": 9,
+      "1707523200": 9,
+      "1707609600": 2,
+      "1707696000": 1,
+      "1707782400": 8,
+      "1707868800": 1,
+      "1707955200": 1,
+      "1708041600": 1,
+      "1708128000": 1,
+      "1708214400": 1,
+      "1708300800": 1,
+      "1708387200": 1,
+      "1708473600": 1,
+      "1708560000": 1,
+      "1708646400": 1,
+      "1708732800": 1,
+      "1708819200": 16,
+      "1708905600": 8,
+      "1708992000": 15,
+      "1709078400": 12,
+      "1709164800": 16,
+      "1709251200": 7,
+      "1709337600": 1,
+      "1709424000": 4,
+      "1709510400": 1,
+      "1709596800": 7,
+      "1709683200": 2,
+      "1709769600": 14,
+      "1709856000": 2,
+      "1709942400": 1,
+      "1710028800": 1,
+      "1710115200": 4,
+      "1710201600": 1,
+      "1710288000": 4,
+      "1710374400": 1,
+      "1710547200": 3,
+      "1710633600": 1,
+      "1710720000": 8,
+      "1710806400": 1,
+      "1710892800": 10,
+      "1710979200": 8,
+      "1711065600": 5,
+      "1711152000": 5,
+      "1711238400": 20,
+      "1711324800": 10,
+      "1711411200": 50,
+      "1711497600": 10
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 516962443,
+        "submitTime": 1711458748,
+        "question": {
+          "title": "Word Break",
+          "translatedTitle": "单词拆分",
+          "titleSlug": "word-break",
+          "questionFrontendId": "139"
+        }
+      },
+      {
+        "submissionId": 516703362,
+        "submitTime": 1711423268,
+        "question": {
+          "title": "Design Graph With Shortest Path Calculator",
+          "translatedTitle": "设计可以求最短路径的图类",
+          "titleSlug": "design-graph-with-shortest-path-calculator",
+          "questionFrontendId": "2642"
+        }
+      },
+      {
+        "submissionId": 516339212,
+        "submitTime": 1711349127,
+        "question": {
+          "title": "Coin Change II",
+          "translatedTitle": "零钱兑换 II",
+          "titleSlug": "coin-change-ii",
+          "questionFrontendId": "518"
+        }
+      },
+      {
+        "submissionId": 516035814,
+        "submitTime": 1711272964,
+        "question": {
+          "title": "Coin Change",
+          "translatedTitle": "零钱兑换",
+          "titleSlug": "coin-change",
+          "questionFrontendId": "322"
+        }
+      },
+      {
+        "submissionId": 515764561,
+        "submitTime": 1711206259,
+        "question": {
+          "title": "Coin Change",
+          "translatedTitle": "零钱兑换",
+          "titleSlug": "coin-change",
+          "questionFrontendId": "322"
+        }
+      },
+      {
+        "submissionId": 515762133,
+        "submitTime": 1711205827,
+        "question": {
+          "title": "Perfect Squares",
+          "translatedTitle": "完全平方数",
+          "titleSlug": "perfect-squares",
+          "questionFrontendId": "279"
+        }
+      },
+      {
+        "submissionId": 515758088,
+        "submitTime": 1711205102,
+        "question": {
+          "title": "Maximum Absolute Sum of Any Subarray",
+          "translatedTitle": "任意子数组和的绝对值的最大值",
+          "titleSlug": "maximum-absolute-sum-of-any-subarray",
+          "questionFrontendId": "1749"
+        }
+      },
+      {
+        "submissionId": 515572990,
+        "submitTime": 1711176218,
+        "question": {
+          "title": "Count Distinct Numbers on Board",
+          "translatedTitle": "统计桌面上的不同数字",
+          "titleSlug": "count-distinct-numbers-on-board",
+          "questionFrontendId": "2549"
+        }
+      },
+      {
+        "submissionId": 515340654,
+        "submitTime": 1711103290,
+        "question": {
+          "title": "Find the Substring With Maximum Cost",
+          "translatedTitle": "找到最大开销的子字符串",
+          "titleSlug": "find-the-substring-with-maximum-cost",
+          "questionFrontendId": "2606"
+        }
+      },
+      {
+        "submissionId": 515329890,
+        "submitTime": 1711101099,
+        "question": {
+          "title": "Maximum Subarray",
+          "translatedTitle": "最大子数组和",
+          "titleSlug": "maximum-subarray",
+          "questionFrontendId": "53"
+        }
+      },
+      {
+        "submissionId": 515223627,
+        "submitTime": 1711088964,
+        "question": {
+          "title": "Minimum Number of Visited Cells in a Grid",
+          "translatedTitle": "网格图中最少访问的格子数",
+          "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+          "questionFrontendId": "2617"
+        }
+      },
+      {
+        "submissionId": 514900747,
+        "submitTime": 1711015037,
+        "question": {
+          "title": "Find All Duplicates in an Array",
+          "translatedTitle": "数组中重复的数据",
+          "titleSlug": "find-all-duplicates-in-an-array",
+          "questionFrontendId": "442"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4762 @@
+[
+  {
+    "id": 1,
+    "name": "张佩瑶",
+    "username": "zzzwr",
+    "realname": "zzzwr",
+    "canlendar": {
+      "1710288000": 2,
+      "1711324800": 2,
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711584000": 1,
+      "1711670400": 1,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712448000": 2,
+      "1712534400": 1,
+      "1712620800": 2,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713139200": 1,
+      "1713225600": 1,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713484800": 1,
+      "1713744000": 3,
+      "1713830400": 2,
+      "1713916800": 2,
+      "1714003200": 1,
+      "1714089600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527211483,
+        "submitTime": 1714098094,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 527055026,
+        "submitTime": 1714038667,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 526593892,
+        "submitTime": 1713929397,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 526593636,
+        "submitTime": 1713929358,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 526195353,
+        "submitTime": 1713832400,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 526194546,
+        "submitTime": 1713831909,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 526041889,
+        "submitTime": 1713782018,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 526035903,
+        "submitTime": 1713780415,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 525296188,
+        "submitTime": 1713540773,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524958839,
+        "submitTime": 1713448260,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524609881,
+        "submitTime": 1713362610,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524220850,
+        "submitTime": 1713270471,
+        "question": {
+          "title": "Two Sum",
+          "translatedTitle": "两数之和",
+          "titleSlug": "two-sum",
+          "questionFrontendId": "1"
+        }
+      },
+      {
+        "submissionId": 523825230,
+        "submitTime": 1713177001,
+        "question": {
+          "title": "Happy Number",
+          "translatedTitle": "快乐数",
+          "titleSlug": "happy-number",
+          "questionFrontendId": "202"
+        }
+      },
+      {
+        "submissionId": 522992296,
+        "submitTime": 1712933986,
+        "question": {
+          "title": "Intersection of Two Arrays",
+          "translatedTitle": "两个数组的交集",
+          "titleSlug": "intersection-of-two-arrays",
+          "questionFrontendId": "349"
+        }
+      },
+      {
+        "submissionId": 522542367,
+        "submitTime": 1712825626,
+        "question": {
+          "title": "Valid Anagram",
+          "translatedTitle": "有效的字母异位词",
+          "titleSlug": "valid-anagram",
+          "questionFrontendId": "242"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "石彦鸣",
+    "username": "Assassin",
+    "realname": "assassin-eu",
+    "canlendar": {
+      "1709251200": 12,
+      "1709337600": 3,
+      "1709510400": 2,
+      "1710115200": 9,
+      "1710201600": 2,
+      "1710288000": 5,
+      "1710374400": 2,
+      "1710460800": 2,
+      "1710633600": 4,
+      "1710720000": 1,
+      "1710806400": 1,
+      "1710892800": 9,
+      "1710979200": 5,
+      "1711065600": 2,
+      "1711152000": 2,
+      "1711238400": 3,
+      "1711324800": 2,
+      "1711411200": 2,
+      "1711497600": 1,
+      "1711756800": 1,
+      "1711843200": 2,
+      "1711929600": 2,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 10,
+      "1712275200": 3,
+      "1712361600": 1,
+      "1712448000": 2,
+      "1712620800": 3,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 4,
+      "1713052800": 1,
+      "1713139200": 1,
+      "1713225600": 1,
+      "1713312000": 3,
+      "1713398400": 4,
+      "1713484800": 1,
+      "1713657600": 1,
+      "1713830400": 1,
+      "1714003200": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 526868582,
+        "submitTime": 1714005481,
+        "question": {
+          "title": "Diameter of Binary Tree",
+          "translatedTitle": "二叉树的直径",
+          "titleSlug": "diameter-of-binary-tree",
+          "questionFrontendId": "543"
+        }
+      },
+      {
+        "submissionId": 526406307,
+        "submitTime": 1713871481,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525775945,
+        "submitTime": 1713704773,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 525149207,
+        "submitTime": 1713511481,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524777807,
+        "submitTime": 1713417640,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524721518,
+        "submitTime": 1713407413,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524336741,
+        "submitTime": 1713316046,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524011291,
+        "submitTime": 1713235413,
+        "question": {
+          "title": "Intersection of Two Arrays",
+          "translatedTitle": "两个数组的交集",
+          "titleSlug": "intersection-of-two-arrays",
+          "questionFrontendId": "349"
+        }
+      },
+      {
+        "submissionId": 523843886,
+        "submitTime": 1713180896,
+        "question": {
+          "title": "Valid Anagram",
+          "translatedTitle": "有效的字母异位词",
+          "titleSlug": "valid-anagram",
+          "questionFrontendId": "242"
+        }
+      },
+      {
+        "submissionId": 523568151,
+        "submitTime": 1713105910,
+        "question": {
+          "title": "Find All Numbers Disappeared in an Array",
+          "translatedTitle": "找到所有数组中消失的数字",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "questionFrontendId": "448"
+        }
+      },
+      {
+        "submissionId": 522716399,
+        "submitTime": 1712881359,
+        "question": {
+          "title": "Fibonacci Number",
+          "translatedTitle": "斐波那契数",
+          "titleSlug": "fibonacci-number",
+          "questionFrontendId": "509"
+        }
+      },
+      {
+        "submissionId": 522634101,
+        "submitTime": 1712841197,
+        "question": {
+          "title": "Shuffle the Array",
+          "translatedTitle": "重新排列数组",
+          "titleSlug": "shuffle-the-array",
+          "questionFrontendId": "1470"
+        }
+      },
+      {
+        "submissionId": 522001479,
+        "submitTime": 1712714153,
+        "question": {
+          "title": "Two Sum",
+          "translatedTitle": "两数之和",
+          "titleSlug": "two-sum",
+          "questionFrontendId": "1"
+        }
+      },
+      {
+        "submissionId": 521852969,
+        "submitTime": 1712665093,
+        "question": {
+          "title": "Find the Maximum Divisibility Score",
+          "translatedTitle": "找出可整除性得分最大的整数",
+          "titleSlug": "find-the-maximum-divisibility-score",
+          "questionFrontendId": "2644"
+        }
+      },
+      {
+        "submissionId": 521041115,
+        "submitTime": 1712490656,
+        "question": {
+          "title": "Longest Palindromic Substring",
+          "translatedTitle": "最长回文子串",
+          "titleSlug": "longest-palindromic-substring",
+          "questionFrontendId": "5"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "郭世杰",
+    "username": "派小星",
+    "realname": "zen-mccarthykti",
+    "canlendar": {
+      "1711324800": 6,
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711584000": 1,
+      "1711670400": 1,
+      "1712016000": 3,
+      "1712102400": 3,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1713571200": 2
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 525517315,
+        "submitTime": 1713621008,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 525516939,
+        "submitTime": 1713620922,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 522653352,
+        "submitTime": 1712843919,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522309620,
+        "submitTime": 1712759793,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 521825068,
+        "submitTime": 1712660832,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 521419272,
+        "submitTime": 1712575312,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 520408086,
+        "submitTime": 1712321043,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 520152146,
+        "submitTime": 1712237980,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519926471,
+        "submitTime": 1712155046,
+        "question": {
+          "title": "Design Linked List",
+          "translatedTitle": "设计链表",
+          "titleSlug": "design-linked-list",
+          "questionFrontendId": "707"
+        }
+      },
+      {
+        "submissionId": 519324415,
+        "submitTime": 1712027013,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 518188936,
+        "submitTime": 1711726917,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      },
+      {
+        "submissionId": 517677494,
+        "submitTime": 1711614429,
+        "question": {
+          "title": "Minimum Size Subarray Sum",
+          "translatedTitle": "长度最小的子数组",
+          "titleSlug": "minimum-size-subarray-sum",
+          "questionFrontendId": "209"
+        }
+      },
+      {
+        "submissionId": 517200045,
+        "submitTime": 1711521612,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 516756992,
+        "submitTime": 1711433523,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 516491601,
+        "submitTime": 1711368831,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "温贺惠",
+    "username": "晚上好",
+    "realname": "wan-shang-hao-r",
+    "canlendar": {
+      "1711411200": 2,
+      "1711497600": 1,
+      "1711670400": 3,
+      "1711929600": 14,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 3,
+      "1712275200": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713139200": 1,
+      "1713312000": 1,
+      "1713744000": 3,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 1,
+      "1714089600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527295751,
+        "submitTime": 1714115948,
+        "question": {
+          "title": "Average of Levels in Binary Tree",
+          "translatedTitle": "二叉树的层平均值",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "questionFrontendId": "637"
+        }
+      },
+      {
+        "submissionId": 527121907,
+        "submitTime": 1714052474,
+        "question": {
+          "title": "Find Largest Value in Each Tree Row",
+          "translatedTitle": "在每个树行中找最大值",
+          "titleSlug": "find-largest-value-in-each-tree-row",
+          "questionFrontendId": "515"
+        }
+      },
+      {
+        "submissionId": 526832218,
+        "submitTime": 1713971590,
+        "question": {
+          "title": "N-ary Tree Level Order Traversal",
+          "translatedTitle": "N 叉树的层序遍历",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "questionFrontendId": "429"
+        }
+      },
+      {
+        "submissionId": 526456080,
+        "submitTime": 1713879249,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 525954028,
+        "submitTime": 1713768710,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525945665,
+        "submitTime": 1713767343,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525945027,
+        "submitTime": 1713767232,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524594322,
+        "submitTime": 1713360323,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523902371,
+        "submitTime": 1713189353,
+        "question": {
+          "title": "Happy Number",
+          "translatedTitle": "快乐数",
+          "titleSlug": "happy-number",
+          "questionFrontendId": "202"
+        }
+      },
+      {
+        "submissionId": 522981288,
+        "submitTime": 1712930745,
+        "question": {
+          "title": "Intersection of Two Arrays",
+          "translatedTitle": "两个数组的交集",
+          "titleSlug": "intersection-of-two-arrays",
+          "questionFrontendId": "349"
+        }
+      },
+      {
+        "submissionId": 522621043,
+        "submitTime": 1712839344,
+        "question": {
+          "title": "Valid Anagram",
+          "translatedTitle": "有效的字母异位词",
+          "titleSlug": "valid-anagram",
+          "questionFrontendId": "242"
+        }
+      },
+      {
+        "submissionId": 522225277,
+        "submitTime": 1712748661,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 521854613,
+        "submitTime": 1712665295,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 521412393,
+        "submitTime": 1712574029,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 520438013,
+        "submitTime": 1712326114,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "胡杨",
+    "username": "川",
+    "realname": "youthful-rosalindwfu",
+    "canlendar": {
+      "1711324800": 1,
+      "1711411200": 4,
+      "1711497600": 1,
+      "1711584000": 1,
+      "1711670400": 4,
+      "1711756800": 1,
+      "1711843200": 7,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 2,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712361600": 1,
+      "1712448000": 1,
+      "1712534400": 3,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 2,
+      "1712966400": 1,
+      "1713052800": 1,
+      "1713139200": 1,
+      "1713225600": 3,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713484800": 1,
+      "1713571200": 1,
+      "1713657600": 1,
+      "1713744000": 1,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 3,
+      "1714089600": 2,
+      "1714176000": 1,
+      "1714262400": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527937840,
+        "submitTime": 1714314083,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 527641237,
+        "submitTime": 1714224994,
+        "question": {
+          "title": "Minimum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最小深度",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "questionFrontendId": "111"
+        }
+      },
+      {
+        "submissionId": 527400698,
+        "submitTime": 1714137833,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 527135815,
+        "submitTime": 1714054772,
+        "question": {
+          "title": "Maximum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最大深度",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "questionFrontendId": "104"
+        }
+      },
+      {
+        "submissionId": 526824128,
+        "submitTime": 1713970113,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "questionFrontendId": "116"
+        }
+      },
+      {
+        "submissionId": 526506255,
+        "submitTime": 1713887513,
+        "question": {
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "translatedTitle": "二叉树的锯齿形层序遍历",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "questionFrontendId": "103"
+        }
+      },
+      {
+        "submissionId": 526155927,
+        "submitTime": 1713800590,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node II",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "questionFrontendId": "117"
+        }
+      },
+      {
+        "submissionId": 525808737,
+        "submitTime": 1713710896,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 525548259,
+        "submitTime": 1713628318,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 525286290,
+        "submitTime": 1713538212,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524979339,
+        "submitTime": 1713451593,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524648374,
+        "submitTime": 1713369320,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524171884,
+        "submitTime": 1713260483,
+        "question": {
+          "title": "Remove Duplicates from Sorted List II",
+          "translatedTitle": "删除排序链表中的重复元素 II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "questionFrontendId": "82"
+        }
+      },
+      {
+        "submissionId": 523926973,
+        "submitTime": 1713193083,
+        "question": {
+          "title": "Partition List",
+          "translatedTitle": "分隔链表",
+          "titleSlug": "partition-list",
+          "questionFrontendId": "86"
+        }
+      },
+      {
+        "submissionId": 523492584,
+        "submitTime": 1713091658,
+        "question": {
+          "title": "Remove Duplicates from Sorted List",
+          "translatedTitle": "删除排序链表中的重复元素",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "questionFrontendId": "83"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "张扬",
+    "username": "Nifty Brown7XP",
+    "realname": "nifty-brown7xp",
+    "canlendar": {
+      "1710288000": 1,
+      "1710374400": 1,
+      "1710460800": 1,
+      "1710547200": 1,
+      "1710633600": 11,
+      "1710720000": 1,
+      "1710806400": 3,
+      "1710892800": 1,
+      "1710979200": 4,
+      "1711324800": 5,
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711584000": 1,
+      "1711670400": 1,
+      "1711843200": 9,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713139200": 1,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713484800": 1,
+      "1713571200": 1,
+      "1713657600": 1,
+      "1713744000": 1,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 1,
+      "1714176000": 2,
+      "1714262400": 2,
+      "1714348800": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 528000606,
+        "submitTime": 1714354468,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 527853652,
+        "submitTime": 1714295726,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 527443837,
+        "submitTime": 1714150949,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 527443744,
+        "submitTime": 1714150869,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node II",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "questionFrontendId": "117"
+        }
+      },
+      {
+        "submissionId": 527150564,
+        "submitTime": 1714057594,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 526749411,
+        "submitTime": 1713956989,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 526479937,
+        "submitTime": 1713882819,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 526135855,
+        "submitTime": 1713797018,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 525794008,
+        "submitTime": 1713708043,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525492467,
+        "submitTime": 1713615226,
+        "question": {
+          "title": "Middle of the Linked List",
+          "translatedTitle": "链表的中间结点",
+          "titleSlug": "middle-of-the-linked-list",
+          "questionFrontendId": "876"
+        }
+      },
+      {
+        "submissionId": 525300935,
+        "submitTime": 1713542239,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524887086,
+        "submitTime": 1713434267,
+        "question": {
+          "title": "Merge k Sorted Lists",
+          "translatedTitle": "合并 K 个升序链表",
+          "titleSlug": "merge-k-sorted-lists",
+          "questionFrontendId": "23"
+        }
+      },
+      {
+        "submissionId": 524353054,
+        "submitTime": 1713319625,
+        "question": {
+          "title": "Partition List",
+          "translatedTitle": "分隔链表",
+          "titleSlug": "partition-list",
+          "questionFrontendId": "86"
+        }
+      },
+      {
+        "submissionId": 523651981,
+        "submitTime": 1713149050,
+        "question": {
+          "title": "Merge Two Sorted Lists",
+          "translatedTitle": "合并两个有序链表",
+          "titleSlug": "merge-two-sorted-lists",
+          "questionFrontendId": "21"
+        }
+      },
+      {
+        "submissionId": 522992466,
+        "submitTime": 1712934019,
+        "question": {
+          "title": "Ransom Note",
+          "translatedTitle": "赎金信",
+          "titleSlug": "ransom-note",
+          "questionFrontendId": "383"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "江雨晴",
+    "username": "秋赤音",
+    "realname": "wonderful-stonebrakerqig",
+    "canlendar": {
+      "1711065600": 2,
+      "1711324800": 2,
+      "1711411200": 2,
+      "1711497600": 1,
+      "1711843200": 2,
+      "1711929600": 2,
+      "1712016000": 1,
+      "1712102400": 2,
+      "1712188800": 11,
+      "1712275200": 18,
+      "1712361600": 5,
+      "1712448000": 6,
+      "1712534400": 3,
+      "1712620800": 3,
+      "1712707200": 4,
+      "1712793600": 1,
+      "1712966400": 2,
+      "1713052800": 1,
+      "1713139200": 4,
+      "1713225600": 5,
+      "1713312000": 3,
+      "1713398400": 1,
+      "1713484800": 11,
+      "1713571200": 11,
+      "1713657600": 3,
+      "1713744000": 12,
+      "1713830400": 5,
+      "1713916800": 4,
+      "1714003200": 6,
+      "1714089600": 16,
+      "1714262400": 6
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527933509,
+        "submitTime": 1714313211,
+        "question": {
+          "title": "Path Sum",
+          "translatedTitle": "路径总和",
+          "titleSlug": "path-sum",
+          "questionFrontendId": "112"
+        }
+      },
+      {
+        "submissionId": 527921990,
+        "submitTime": 1714311144,
+        "question": {
+          "title": "Find Bottom Left Tree Value",
+          "translatedTitle": "找树左下角的值",
+          "titleSlug": "find-bottom-left-tree-value",
+          "questionFrontendId": "513"
+        }
+      },
+      {
+        "submissionId": 527920700,
+        "submitTime": 1714310899,
+        "question": {
+          "title": "Sum of Left Leaves",
+          "translatedTitle": "左叶子之和",
+          "titleSlug": "sum-of-left-leaves",
+          "questionFrontendId": "404"
+        }
+      },
+      {
+        "submissionId": 527918539,
+        "submitTime": 1714310488,
+        "question": {
+          "title": "Sum of Left Leaves",
+          "translatedTitle": "左叶子之和",
+          "titleSlug": "sum-of-left-leaves",
+          "questionFrontendId": "404"
+        }
+      },
+      {
+        "submissionId": 527916329,
+        "submitTime": 1714310047,
+        "question": {
+          "title": "Sum of Left Leaves",
+          "translatedTitle": "左叶子之和",
+          "titleSlug": "sum-of-left-leaves",
+          "questionFrontendId": "404"
+        }
+      },
+      {
+        "submissionId": 527399195,
+        "submitTime": 1714137491,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 527398437,
+        "submitTime": 1714137328,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 527395847,
+        "submitTime": 1714136737,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 527340211,
+        "submitTime": 1714122512,
+        "question": {
+          "title": "N-ary Tree Postorder Traversal",
+          "translatedTitle": "N 叉树的后序遍历",
+          "titleSlug": "n-ary-tree-postorder-traversal",
+          "questionFrontendId": "590"
+        }
+      },
+      {
+        "submissionId": 527338337,
+        "submitTime": 1714122220,
+        "question": {
+          "title": "N-ary Tree Postorder Traversal",
+          "translatedTitle": "N 叉树的后序遍历",
+          "titleSlug": "n-ary-tree-postorder-traversal",
+          "questionFrontendId": "590"
+        }
+      },
+      {
+        "submissionId": 527337030,
+        "submitTime": 1714122017,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 527336135,
+        "submitTime": 1714121880,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 527329328,
+        "submitTime": 1714120891,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 527221070,
+        "submitTime": 1714099550,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 527220170,
+        "submitTime": 1714099417,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "杜家兴",
+    "username": "Cranky RamanK0x",
+    "realname": "cranky-ramank0x",
+    "canlendar": {
+      "1711324800": 7,
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711756800": 1,
+      "1711929600": 2,
+      "1712016000": 2,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712361600": 1,
+      "1712448000": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 2,
+      "1712793600": 2,
+      "1712880000": 1,
+      "1713139200": 2,
+      "1713225600": 1,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713484800": 1,
+      "1713830400": 3,
+      "1713916800": 1,
+      "1714003200": 1,
+      "1714089600": 1,
+      "1714262400": 2
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527963111,
+        "submitTime": 1714319549,
+        "question": {
+          "title": "Minimum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最小深度",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "questionFrontendId": "111"
+        }
+      },
+      {
+        "submissionId": 527959205,
+        "submitTime": 1714318440,
+        "question": {
+          "title": "Minimum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最小深度",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "questionFrontendId": "111"
+        }
+      },
+      {
+        "submissionId": 527435244,
+        "submitTime": 1714146903,
+        "question": {
+          "title": "Maximum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最大深度",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "questionFrontendId": "104"
+        }
+      },
+      {
+        "submissionId": 527159733,
+        "submitTime": 1714059575,
+        "question": {
+          "title": "Average of Levels in Binary Tree",
+          "translatedTitle": "二叉树的层平均值",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "questionFrontendId": "637"
+        }
+      },
+      {
+        "submissionId": 526840791,
+        "submitTime": 1713973448,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 526476292,
+        "submitTime": 1713882251,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526475961,
+        "submitTime": 1713882198,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526470662,
+        "submitTime": 1713881366,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525300931,
+        "submitTime": 1713542239,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 524998983,
+        "submitTime": 1713454557,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524647123,
+        "submitTime": 1713369039,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524302848,
+        "submitTime": 1713283062,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523940269,
+        "submitTime": 1713195453,
+        "question": {
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "translatedTitle": "有多少小于当前数字的数字",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "questionFrontendId": "1365"
+        }
+      },
+      {
+        "submissionId": 523001947,
+        "submitTime": 1712936350,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522681463,
+        "submitTime": 1712848525,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "张子源",
+    "username": "CODEZhang",
+    "realname": "codezang",
+    "canlendar": {
+      "1711324800": 1,
+      "1711411200": 2,
+      "1711670400": 3,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 2,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712534400": 3,
+      "1712620800": 1,
+      "1712707200": 3,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713225600": 3,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713657600": 1,
+      "1713830400": 1,
+      "1714089600": 8
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527321717,
+        "submitTime": 1714119723,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 527321437,
+        "submitTime": 1714119684,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 527319878,
+        "submitTime": 1714119450,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 527310584,
+        "submitTime": 1714118248,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 526223321,
+        "submitTime": 1713839021,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 525736941,
+        "submitTime": 1713695570,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node II",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "questionFrontendId": "117"
+        }
+      },
+      {
+        "submissionId": 524981445,
+        "submitTime": 1713451931,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "questionFrontendId": "116"
+        }
+      },
+      {
+        "submissionId": 524635013,
+        "submitTime": 1713366645,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524294587,
+        "submitTime": 1713281358,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524294391,
+        "submitTime": 1713281317,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524293924,
+        "submitTime": 1713281234,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523003162,
+        "submitTime": 1712936704,
+        "question": {
+          "title": "Valid Anagram",
+          "translatedTitle": "有效的字母异位词",
+          "titleSlug": "valid-anagram",
+          "questionFrontendId": "242"
+        }
+      },
+      {
+        "submissionId": 522665233,
+        "submitTime": 1712845701,
+        "question": {
+          "title": "Longest Substring Without Repeating Characters",
+          "translatedTitle": "无重复字符的最长子串",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "questionFrontendId": "3"
+        }
+      },
+      {
+        "submissionId": 522222644,
+        "submitTime": 1712748194,
+        "question": {
+          "title": "Add Two Numbers",
+          "translatedTitle": "两数相加",
+          "titleSlug": "add-two-numbers",
+          "questionFrontendId": "2"
+        }
+      },
+      {
+        "submissionId": 522202406,
+        "submitTime": 1712743542,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "冯科璇",
+    "username": "Baicsc",
+    "realname": "elastic-satoshiwbw",
+    "canlendar": {
+      "1711324800": 1,
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711584000": 1,
+      "1711670400": 1,
+      "1711756800": 1,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712361600": 1,
+      "1712448000": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713052800": 1,
+      "1713139200": 1,
+      "1713225600": 1,
+      "1713312000": 1,
+      "1713398400": 8,
+      "1713484800": 1,
+      "1713571200": 1,
+      "1713657600": 1,
+      "1713744000": 1,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 5,
+      "1714089600": 1,
+      "1714176000": 1,
+      "1714262400": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527943182,
+        "submitTime": 1714315198,
+        "question": {
+          "title": "Valid Anagram",
+          "translatedTitle": "有效的字母异位词",
+          "titleSlug": "valid-anagram",
+          "questionFrontendId": "242"
+        }
+      },
+      {
+        "submissionId": 527672409,
+        "submitTime": 1714231186,
+        "question": {
+          "title": "Balanced Binary Tree",
+          "translatedTitle": "平衡二叉树",
+          "titleSlug": "balanced-binary-tree",
+          "questionFrontendId": "110"
+        }
+      },
+      {
+        "submissionId": 527428541,
+        "submitTime": 1714144834,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 527107243,
+        "submitTime": 1714049945,
+        "question": {
+          "title": "Maximum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最大深度",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "questionFrontendId": "104"
+        }
+      },
+      {
+        "submissionId": 527104103,
+        "submitTime": 1714049441,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 527099305,
+        "submitTime": 1714048624,
+        "question": {
+          "title": "Average of Levels in Binary Tree",
+          "translatedTitle": "二叉树的层平均值",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "questionFrontendId": "637"
+        }
+      },
+      {
+        "submissionId": 527096598,
+        "submitTime": 1714048170,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 527086117,
+        "submitTime": 1714046329,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 526826819,
+        "submitTime": 1713970584,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 526482634,
+        "submitTime": 1713883274,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 526120228,
+        "submitTime": 1713794737,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node II",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "questionFrontendId": "117"
+        }
+      },
+      {
+        "submissionId": 525764550,
+        "submitTime": 1713702640,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 525536900,
+        "submitTime": 1713625315,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525287713,
+        "submitTime": 1713538548,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524939612,
+        "submitTime": 1713445209,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "乔佳琪",
+    "username": "Serene 6ermainhYB",
+    "realname": "serene-6ermainhyb",
+    "canlendar": {
+      "1710115200": 8,
+      "1710201600": 1,
+      "1710288000": 4,
+      "1710374400": 6,
+      "1710460800": 3,
+      "1710547200": 5,
+      "1710633600": 7,
+      "1710720000": 1,
+      "1710806400": 2,
+      "1710892800": 7,
+      "1710979200": 9,
+      "1711065600": 2,
+      "1711152000": 5,
+      "1711238400": 3,
+      "1711324800": 8,
+      "1711411200": 1,
+      "1711497600": 3,
+      "1711584000": 1,
+      "1711670400": 1,
+      "1711929600": 3,
+      "1712016000": 7,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712448000": 1,
+      "1712620800": 1,
+      "1712793600": 4,
+      "1712880000": 2,
+      "1712966400": 1,
+      "1713398400": 3,
+      "1713657600": 1,
+      "1713744000": 3,
+      "1713830400": 5,
+      "1714003200": 1,
+      "1714176000": 1,
+      "1714262400": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527960254,
+        "submitTime": 1714318722,
+        "question": {
+          "title": "Maximum Depth of N-ary Tree",
+          "translatedTitle": "N 叉树的最大深度",
+          "titleSlug": "maximum-depth-of-n-ary-tree",
+          "questionFrontendId": "559"
+        }
+      },
+      {
+        "submissionId": 527681371,
+        "submitTime": 1714233234,
+        "question": {
+          "title": "Maximum Depth of Binary Tree",
+          "translatedTitle": "二叉树的最大深度",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "questionFrontendId": "104"
+        }
+      },
+      {
+        "submissionId": 527076853,
+        "submitTime": 1714044559,
+        "question": {
+          "title": "N-ary Tree Level Order Traversal",
+          "translatedTitle": "N 叉树的层序遍历",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "questionFrontendId": "429"
+        }
+      },
+      {
+        "submissionId": 526411568,
+        "submitTime": 1713872483,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 526254895,
+        "submitTime": 1713843405,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 526207058,
+        "submitTime": 1713836179,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 526206895,
+        "submitTime": 1713836141,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 526118281,
+        "submitTime": 1713794462,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 526117582,
+        "submitTime": 1713794364,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 525646218,
+        "submitTime": 1713678522,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525000968,
+        "submitTime": 1713454999,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 525000933,
+        "submitTime": 1713454990,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 525000287,
+        "submitTime": 1713454840,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523261855,
+        "submitTime": 1713021504,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522782683,
+        "submitTime": 1712893704,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "翟金宇",
+    "username": "翟金鱼-fish-lico",
+    "realname": "clever-svvansonqbe",
+    "canlendar": {
+      "1711584000": 1,
+      "1711756800": 3,
+      "1712016000": 1,
+      "1712534400": 3,
+      "1712707200": 2,
+      "1713225600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 524215669,
+        "submitTime": 1713269710,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522117973,
+        "submitTime": 1712733159,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 522095394,
+        "submitTime": 1712730701,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 521455051,
+        "submitTime": 1712580099,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 521434401,
+        "submitTime": 1712577573,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519366879,
+        "submitTime": 1712035347,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 518495306,
+        "submitTime": 1711811469,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      },
+      {
+        "submissionId": 517489411,
+        "submitTime": 1711585140,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "于卿功",
+    "username": "DokiDoki",
+    "realname": "angry-svvansonwyz",
+    "canlendar": {
+      "1711324800": 2,
+      "1711411200": 5,
+      "1711584000": 2,
+      "1711843200": 1,
+      "1712188800": 1,
+      "1712534400": 9,
+      "1712620800": 2,
+      "1712707200": 2,
+      "1712966400": 1,
+      "1713052800": 2,
+      "1713571200": 2,
+      "1713830400": 9,
+      "1713916800": 3,
+      "1714003200": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527067804,
+        "submitTime": 1714042194,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针",
+          "titleSlug": "populating-next-right-pointers-in-each-node",
+          "questionFrontendId": "116"
+        }
+      },
+      {
+        "submissionId": 526617521,
+        "submitTime": 1713934830,
+        "question": {
+          "title": "Find Largest Value in Each Tree Row",
+          "translatedTitle": "在每个树行中找最大值",
+          "titleSlug": "find-largest-value-in-each-tree-row",
+          "questionFrontendId": "515"
+        }
+      },
+      {
+        "submissionId": 526607019,
+        "submitTime": 1713932410,
+        "question": {
+          "title": "N-ary Tree Level Order Traversal",
+          "translatedTitle": "N 叉树的层序遍历",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "questionFrontendId": "429"
+        }
+      },
+      {
+        "submissionId": 526380751,
+        "submitTime": 1713865065,
+        "question": {
+          "title": "Average of Levels in Binary Tree",
+          "translatedTitle": "二叉树的层平均值",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "questionFrontendId": "637"
+        }
+      },
+      {
+        "submissionId": 526372295,
+        "submitTime": 1713863775,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 526357947,
+        "submitTime": 1713861951,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526355337,
+        "submitTime": 1713861625,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526349743,
+        "submitTime": 1713860895,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 526310243,
+        "submitTime": 1713855729,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 526310055,
+        "submitTime": 1713855701,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 525370731,
+        "submitTime": 1713586311,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525365934,
+        "submitTime": 1713584822,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523402634,
+        "submitTime": 1713076434,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 523017300,
+        "submitTime": 1712942831,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 522057603,
+        "submitTime": 1712721959,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "孙嘉宇",
+    "username": "枕眠",
+    "realname": "AcytaH61rn",
+    "canlendar": {
+      "1711411200": 2,
+      "1711497600": 2,
+      "1711929600": 3,
+      "1712016000": 1,
+      "1712102400": 2,
+      "1712448000": 3,
+      "1712534400": 5,
+      "1712620800": 3,
+      "1712707200": 3,
+      "1712793600": 4,
+      "1713052800": 2,
+      "1713139200": 3,
+      "1713225600": 3,
+      "1713312000": 1,
+      "1713398400": 1,
+      "1713484800": 1,
+      "1713744000": 1,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 3,
+      "1714089600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527215810,
+        "submitTime": 1714098787,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 527096843,
+        "submitTime": 1714048208,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526670222,
+        "submitTime": 1713943505,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 526302103,
+        "submitTime": 1713854924,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525977022,
+        "submitTime": 1713771964,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525091040,
+        "submitTime": 1713497915,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 524882636,
+        "submitTime": 1713433412,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524463200,
+        "submitTime": 1713339742,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 524032752,
+        "submitTime": 1713238122,
+        "question": {
+          "title": "Remove Duplicates from Sorted List II",
+          "translatedTitle": "删除排序链表中的重复元素 II",
+          "titleSlug": "remove-duplicates-from-sorted-list-ii",
+          "questionFrontendId": "82"
+        }
+      },
+      {
+        "submissionId": 523846336,
+        "submitTime": 1713181349,
+        "question": {
+          "title": "Middle of the Linked List",
+          "translatedTitle": "链表的中间结点",
+          "titleSlug": "middle-of-the-linked-list",
+          "questionFrontendId": "876"
+        }
+      },
+      {
+        "submissionId": 523845024,
+        "submitTime": 1713181117,
+        "question": {
+          "title": "Middle of the Linked List",
+          "translatedTitle": "链表的中间结点",
+          "titleSlug": "middle-of-the-linked-list",
+          "questionFrontendId": "876"
+        }
+      },
+      {
+        "submissionId": 523478235,
+        "submitTime": 1713088303,
+        "question": {
+          "title": "Remove Duplicates from Sorted List",
+          "translatedTitle": "删除排序链表中的重复元素",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "questionFrontendId": "83"
+        }
+      },
+      {
+        "submissionId": 522544288,
+        "submitTime": 1712825855,
+        "question": {
+          "title": "Contains Duplicate",
+          "translatedTitle": "存在重复元素",
+          "titleSlug": "contains-duplicate",
+          "questionFrontendId": "217"
+        }
+      },
+      {
+        "submissionId": 522287861,
+        "submitTime": 1712756833,
+        "question": {
+          "title": "Palindrome Linked List",
+          "translatedTitle": "回文链表",
+          "titleSlug": "palindrome-linked-list",
+          "questionFrontendId": "234"
+        }
+      },
+      {
+        "submissionId": 521831055,
+        "submitTime": 1712661980,
+        "question": {
+          "title": "Intersection of Two Linked Lists",
+          "translatedTitle": "相交链表",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "questionFrontendId": "160"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "常彦杰",
+    "username": "Jsama",
+    "realname": "jsama-3",
+    "canlendar": {
+      "1711324800": 1,
+      "1711411200": 2,
+      "1711497600": 1,
+      "1711756800": 11,
+      "1711843200": 1,
+      "1712361600": 9,
+      "1712707200": 1,
+      "1712880000": 1,
+      "1712966400": 2,
+      "1713571200": 8,
+      "1713744000": 2
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 525925485,
+        "submitTime": 1713762456,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 525925261,
+        "submitTime": 1713762392,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 525452597,
+        "submitTime": 1713604374,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 525430104,
+        "submitTime": 1713600427,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 525429693,
+        "submitTime": 1713600358,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 525422496,
+        "submitTime": 1713599155,
+        "question": {
+          "title": "Populating Next Right Pointers in Each Node II",
+          "translatedTitle": "填充每个节点的下一个右侧节点指针 II",
+          "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+          "questionFrontendId": "117"
+        }
+      },
+      {
+        "submissionId": 525413121,
+        "submitTime": 1713597750,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525385360,
+        "submitTime": 1713591433,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 523093774,
+        "submitTime": 1712986991,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 523090646,
+        "submitTime": 1712986021,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 522794556,
+        "submitTime": 1712897189,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 522080186,
+        "submitTime": 1712728067,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 520664989,
+        "submitTime": 1712401621,
+        "question": {
+          "title": "Design Linked List",
+          "translatedTitle": "设计链表",
+          "titleSlug": "design-linked-list",
+          "questionFrontendId": "707"
+        }
+      },
+      {
+        "submissionId": 520662566,
+        "submitTime": 1712400988,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 520636620,
+        "submitTime": 1712395492,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "师浩然",
+    "username": "朝飞.",
+    "realname": "zhao-fei-x",
+    "canlendar": {
+      "1711411200": 3,
+      "1711497600": 3,
+      "1711843200": 7,
+      "1712188800": 1,
+      "1712361600": 1,
+      "1712534400": 2,
+      "1712620800": 1,
+      "1712793600": 2
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 522673193,
+        "submitTime": 1712847050,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      },
+      {
+        "submissionId": 521927747,
+        "submitTime": 1712674288,
+        "question": {
+          "title": "Intersection of Two Linked Lists",
+          "translatedTitle": "相交链表",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "questionFrontendId": "160"
+        }
+      },
+      {
+        "submissionId": 521520323,
+        "submitTime": 1712587951,
+        "question": {
+          "title": "Linked List Cycle",
+          "translatedTitle": "环形链表",
+          "titleSlug": "linked-list-cycle",
+          "questionFrontendId": "141"
+        }
+      },
+      {
+        "submissionId": 521519764,
+        "submitTime": 1712587879,
+        "question": {
+          "title": "Linked List Cycle",
+          "translatedTitle": "环形链表",
+          "titleSlug": "linked-list-cycle",
+          "questionFrontendId": "141"
+        }
+      },
+      {
+        "submissionId": 520730552,
+        "submitTime": 1712413370,
+        "question": {
+          "title": "Remove Duplicates from Sorted List",
+          "translatedTitle": "删除排序链表中的重复元素",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "questionFrontendId": "83"
+        }
+      },
+      {
+        "submissionId": 520181508,
+        "submitTime": 1712244249,
+        "question": {
+          "title": "Merge Two Sorted Lists",
+          "translatedTitle": "合并两个有序链表",
+          "titleSlug": "merge-two-sorted-lists",
+          "questionFrontendId": "21"
+        }
+      },
+      {
+        "submissionId": 518532968,
+        "submitTime": 1711828888,
+        "question": {
+          "title": "Find the Index of the First Occurrence in a String",
+          "translatedTitle": "找出字符串中第一个匹配项的下标",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "questionFrontendId": "28"
+        }
+      },
+      {
+        "submissionId": 518532686,
+        "submitTime": 1711827906,
+        "question": {
+          "title": "Longest Common Prefix",
+          "translatedTitle": "最长公共前缀",
+          "titleSlug": "longest-common-prefix",
+          "questionFrontendId": "14"
+        }
+      },
+      {
+        "submissionId": 518532676,
+        "submitTime": 1711827875,
+        "question": {
+          "title": "Longest Common Prefix",
+          "translatedTitle": "最长公共前缀",
+          "titleSlug": "longest-common-prefix",
+          "questionFrontendId": "14"
+        }
+      },
+      {
+        "submissionId": 518532661,
+        "submitTime": 1711827835,
+        "question": {
+          "title": "Longest Common Prefix",
+          "translatedTitle": "最长公共前缀",
+          "titleSlug": "longest-common-prefix",
+          "questionFrontendId": "14"
+        }
+      },
+      {
+        "submissionId": 518532192,
+        "submitTime": 1711826738,
+        "question": {
+          "title": "Roman to Integer",
+          "translatedTitle": "罗马数字转整数",
+          "titleSlug": "roman-to-integer",
+          "questionFrontendId": "13"
+        }
+      },
+      {
+        "submissionId": 518531853,
+        "submitTime": 1711825940,
+        "question": {
+          "title": "Palindrome Number",
+          "translatedTitle": "回文数",
+          "titleSlug": "palindrome-number",
+          "questionFrontendId": "9"
+        }
+      },
+      {
+        "submissionId": 517105921,
+        "submitTime": 1711506431,
+        "question": {
+          "title": "Two Sum",
+          "translatedTitle": "两数之和",
+          "titleSlug": "two-sum",
+          "questionFrontendId": "1"
+        }
+      },
+      {
+        "submissionId": 516949045,
+        "submitTime": 1711457388,
+        "question": {
+          "title": "Counter",
+          "translatedTitle": "计数器",
+          "titleSlug": "counter",
+          "questionFrontendId": "2620"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "吴思彤",
+    "username": "元气",
+    "realname": "i3lissful-haslettovc",
+    "canlendar": {
+      "1711843200": 5
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 518529246,
+        "submitTime": 1711822217,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      },
+      {
+        "submissionId": 518529194,
+        "submitTime": 1711822149,
+        "question": {
+          "title": "Minimum Size Subarray Sum",
+          "translatedTitle": "长度最小的子数组",
+          "titleSlug": "minimum-size-subarray-sum",
+          "questionFrontendId": "209"
+        }
+      },
+      {
+        "submissionId": 518526910,
+        "submitTime": 1711820095,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 518524334,
+        "submitTime": 1711818426,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 518517996,
+        "submitTime": 1711815686,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "裴润涵",
+    "username": "反求诸己",
+    "realname": "fan-qiu-zhu-ji-b",
+    "canlendar": {
+      "1711411200": 2,
+      "1711497600": 1,
+      "1711670400": 8,
+      "1711756800": 1,
+      "1711843200": 28,
+      "1711929600": 11,
+      "1712534400": 4,
+      "1712620800": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 521611074,
+        "submitTime": 1712629023,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 519241087,
+        "submitTime": 1711985471,
+        "question": {
+          "title": "Next Permutation",
+          "translatedTitle": "下一个排列",
+          "titleSlug": "next-permutation",
+          "questionFrontendId": "31"
+        }
+      },
+      {
+        "submissionId": 518192279,
+        "submitTime": 1711727777,
+        "question": {
+          "title": "Find the Index of the First Occurrence in a String",
+          "translatedTitle": "找出字符串中第一个匹配项的下标",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "questionFrontendId": "28"
+        }
+      },
+      {
+        "submissionId": 517905077,
+        "submitTime": 1711678375,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 517409503,
+        "submitTime": 1711547700,
+        "question": {
+          "title": "Remove Duplicates from Sorted Array",
+          "translatedTitle": "删除有序数组中的重复项",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "questionFrontendId": "26"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "张逸翔",
+    "username": "一⭐",
+    "realname": "yJ8BIIZHLH",
+    "canlendar": null,
+    "recentAcSubmissions": []
+  },
+  {
+    "id": 20,
+    "name": "杨晓晨",
+    "username": "上课还睡就不改名",
+    "realname": "shang-ke-huan-shui-jiu-bu-gai-ming",
+    "canlendar": {
+      "1710115200": 1,
+      "1710201600": 1,
+      "1710288000": 2,
+      "1710374400": 1,
+      "1710460800": 2,
+      "1710547200": 3,
+      "1710633600": 2,
+      "1710720000": 4,
+      "1710806400": 1,
+      "1710892800": 6,
+      "1710979200": 2,
+      "1711065600": 1,
+      "1711152000": 6,
+      "1711238400": 1,
+      "1711324800": 10,
+      "1711411200": 5,
+      "1711670400": 8,
+      "1711756800": 1,
+      "1711843200": 2,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 3
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 520182962,
+        "submitTime": 1712244635,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 519909420,
+        "submitTime": 1712151189,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 519616461,
+        "submitTime": 1712071180,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519233307,
+        "submitTime": 1711984154,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 518538844,
+        "submitTime": 1711846227,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      },
+      {
+        "submissionId": 518537800,
+        "submitTime": 1711845298,
+        "question": {
+          "title": "Minimum Size Subarray Sum",
+          "translatedTitle": "长度最小的子数组",
+          "titleSlug": "minimum-size-subarray-sum",
+          "questionFrontendId": "209"
+        }
+      },
+      {
+        "submissionId": 518511719,
+        "submitTime": 1711814156,
+        "question": {
+          "title": "Minimum Size Subarray Sum",
+          "translatedTitle": "长度最小的子数组",
+          "titleSlug": "minimum-size-subarray-sum",
+          "questionFrontendId": "209"
+        }
+      },
+      {
+        "submissionId": 518066799,
+        "submitTime": 1711703379,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 518058606,
+        "submitTime": 1711702351,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 518044490,
+        "submitTime": 1711700630,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 518044399,
+        "submitTime": 1711700617,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 518044321,
+        "submitTime": 1711700607,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 518044217,
+        "submitTime": 1711700594,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 517009089,
+        "submitTime": 1711464245,
+        "question": {
+          "title": "Majority Element",
+          "translatedTitle": "多数元素",
+          "titleSlug": "majority-element",
+          "questionFrontendId": "169"
+        }
+      },
+      {
+        "submissionId": 516632372,
+        "submitTime": 1711408119,
+        "question": {
+          "title": "Search Insert Position",
+          "translatedTitle": "搜索插入位置",
+          "titleSlug": "search-insert-position",
+          "questionFrontendId": "35"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "秦皓天",
+    "username": "朝阳",
+    "realname": "zhao-yang-scn",
+    "canlendar": {
+      "1704758400": 19,
+      "1704844800": 20,
+      "1704931200": 2,
+      "1705017600": 20,
+      "1705190400": 3,
+      "1705276800": 4,
+      "1705449600": 6,
+      "1709337600": 5,
+      "1709769600": 2,
+      "1710028800": 1,
+      "1710115200": 20,
+      "1710201600": 14,
+      "1710288000": 40,
+      "1710374400": 6,
+      "1710460800": 1,
+      "1710633600": 14,
+      "1710720000": 3,
+      "1710806400": 4,
+      "1710892800": 12,
+      "1710979200": 11,
+      "1711065600": 7,
+      "1711152000": 8,
+      "1711238400": 1,
+      "1711324800": 14,
+      "1711411200": 7,
+      "1711497600": 10,
+      "1711584000": 16,
+      "1711670400": 3,
+      "1711756800": 1,
+      "1711843200": 14,
+      "1711929600": 9,
+      "1712016000": 1,
+      "1712188800": 1,
+      "1712275200": 12,
+      "1712361600": 3,
+      "1712448000": 6,
+      "1712534400": 8,
+      "1712620800": 3,
+      "1712707200": 4,
+      "1712793600": 2,
+      "1712880000": 1,
+      "1712966400": 1,
+      "1713052800": 7,
+      "1713139200": 28,
+      "1713225600": 3,
+      "1713312000": 1,
+      "1713398400": 11,
+      "1713484800": 3,
+      "1713571200": 1,
+      "1713657600": 1,
+      "1713744000": 1,
+      "1713830400": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 526418856,
+        "submitTime": 1713873685,
+        "question": {
+          "title": "Unique Paths II",
+          "translatedTitle": "不同路径 II",
+          "titleSlug": "unique-paths-ii",
+          "questionFrontendId": "63"
+        }
+      },
+      {
+        "submissionId": 526070915,
+        "submitTime": 1713787831,
+        "question": {
+          "title": "Unique Paths II",
+          "translatedTitle": "不同路径 II",
+          "titleSlug": "unique-paths-ii",
+          "questionFrontendId": "63"
+        }
+      },
+      {
+        "submissionId": 525768404,
+        "submitTime": 1713703379,
+        "question": {
+          "title": "Unique Paths II",
+          "translatedTitle": "不同路径 II",
+          "titleSlug": "unique-paths-ii",
+          "questionFrontendId": "63"
+        }
+      },
+      {
+        "submissionId": 525353969,
+        "submitTime": 1713582081,
+        "question": {
+          "title": "Unique Paths II",
+          "translatedTitle": "不同路径 II",
+          "titleSlug": "unique-paths-ii",
+          "questionFrontendId": "63"
+        }
+      },
+      {
+        "submissionId": 525099494,
+        "submitTime": 1713499913,
+        "question": {
+          "title": "Unique Binary Search Trees",
+          "translatedTitle": "不同的二叉搜索树",
+          "titleSlug": "unique-binary-search-trees",
+          "questionFrontendId": "96"
+        }
+      },
+      {
+        "submissionId": 525093272,
+        "submitTime": 1713498333,
+        "question": {
+          "title": "Integer Break",
+          "translatedTitle": "整数拆分",
+          "titleSlug": "integer-break",
+          "questionFrontendId": "343"
+        }
+      },
+      {
+        "submissionId": 524769595,
+        "submitTime": 1713415262,
+        "question": {
+          "title": "Unique Paths II",
+          "translatedTitle": "不同路径 II",
+          "titleSlug": "unique-paths-ii",
+          "questionFrontendId": "63"
+        }
+      },
+      {
+        "submissionId": 524765243,
+        "submitTime": 1713413915,
+        "question": {
+          "title": "Unique Paths",
+          "translatedTitle": "不同路径",
+          "titleSlug": "unique-paths",
+          "questionFrontendId": "62"
+        }
+      },
+      {
+        "submissionId": 524762619,
+        "submitTime": 1713413226,
+        "question": {
+          "title": "Find Original Array From Doubled Array",
+          "translatedTitle": "从双倍数组中还原原数组",
+          "titleSlug": "find-original-array-from-doubled-array",
+          "questionFrontendId": "2007"
+        }
+      },
+      {
+        "submissionId": 524751533,
+        "submitTime": 1713411196,
+        "question": {
+          "title": "Min Cost Climbing Stairs",
+          "translatedTitle": "使用最小花费爬楼梯",
+          "titleSlug": "min-cost-climbing-stairs",
+          "questionFrontendId": "746"
+        }
+      },
+      {
+        "submissionId": 524748705,
+        "submitTime": 1713410812,
+        "question": {
+          "title": "Climbing Stairs",
+          "translatedTitle": "爬楼梯",
+          "titleSlug": "climbing-stairs",
+          "questionFrontendId": "70"
+        }
+      },
+      {
+        "submissionId": 524744220,
+        "submitTime": 1713410244,
+        "question": {
+          "title": "Fibonacci Number",
+          "translatedTitle": "斐波那契数",
+          "titleSlug": "fibonacci-number",
+          "questionFrontendId": "509"
+        }
+      },
+      {
+        "submissionId": 524130700,
+        "submitTime": 1713255230,
+        "question": {
+          "title": "Binary Tree Cameras",
+          "translatedTitle": "监控二叉树",
+          "titleSlug": "binary-tree-cameras",
+          "questionFrontendId": "968"
+        }
+      },
+      {
+        "submissionId": 524118263,
+        "submitTime": 1713253702,
+        "question": {
+          "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+          "translatedTitle": "找出克隆二叉树中的相同节点",
+          "titleSlug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+          "questionFrontendId": "1379"
+        }
+      },
+      {
+        "submissionId": 524113856,
+        "submitTime": 1713253161,
+        "question": {
+          "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+          "translatedTitle": "找出克隆二叉树中的相同节点",
+          "titleSlug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+          "questionFrontendId": "1379"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "张世杰",
+    "username": "Zhangshijie",
+    "realname": "peaceful-nashdwg",
+    "canlendar": {
+      "1711756800": 12,
+      "1711929600": 1,
+      "1712016000": 2,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712361600": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712880000": 1,
+      "1712966400": 1,
+      "1713225600": 1,
+      "1713312000": 1,
+      "1713398400": 3,
+      "1713484800": 1,
+      "1713571200": 1,
+      "1713744000": 1,
+      "1713916800": 3,
+      "1714003200": 1,
+      "1714089600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527200084,
+        "submitTime": 1714095984,
+        "question": {
+          "title": "Invert Binary Tree",
+          "translatedTitle": "翻转二叉树",
+          "titleSlug": "invert-binary-tree",
+          "questionFrontendId": "226"
+        }
+      },
+      {
+        "submissionId": 527076352,
+        "submitTime": 1714044456,
+        "question": {
+          "title": "Balanced Binary Tree",
+          "translatedTitle": "平衡二叉树",
+          "titleSlug": "balanced-binary-tree",
+          "questionFrontendId": "110"
+        }
+      },
+      {
+        "submissionId": 526758900,
+        "submitTime": 1713959144,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 526535739,
+        "submitTime": 1713917777,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 526049937,
+        "submitTime": 1713784065,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 525509438,
+        "submitTime": 1713619287,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 525172425,
+        "submitTime": 1713514737,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 524911737,
+        "submitTime": 1713440446,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524545113,
+        "submitTime": 1713352638,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 524003989,
+        "submitTime": 1713234419,
+        "question": {
+          "title": "Design HashSet",
+          "translatedTitle": "设计哈希集合",
+          "titleSlug": "design-hashset",
+          "questionFrontendId": "705"
+        }
+      },
+      {
+        "submissionId": 523211002,
+        "submitTime": 1713012231,
+        "question": {
+          "title": "Palindrome Linked List",
+          "translatedTitle": "回文链表",
+          "titleSlug": "palindrome-linked-list",
+          "questionFrontendId": "234"
+        }
+      },
+      {
+        "submissionId": 522899248,
+        "submitTime": 1712913647,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 521825212,
+        "submitTime": 1712660857,
+        "question": {
+          "title": "Intersection of Two Linked Lists",
+          "translatedTitle": "相交链表",
+          "titleSlug": "intersection-of-two-linked-lists",
+          "questionFrontendId": "160"
+        }
+      },
+      {
+        "submissionId": 521249359,
+        "submitTime": 1712547888,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 520634299,
+        "submitTime": 1712395112,
+        "question": {
+          "title": "Linked List Cycle",
+          "translatedTitle": "环形链表",
+          "titleSlug": "linked-list-cycle",
+          "questionFrontendId": "141"
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "张凯宁",
+    "username": "lll",
+    "realname": "lll-d6",
+    "canlendar": {
+      "1711411200": 1,
+      "1711497600": 1,
+      "1711843200": 4,
+      "1711929600": 1,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712275200": 1,
+      "1712361600": 1,
+      "1712448000": 1,
+      "1712534400": 2,
+      "1712620800": 1,
+      "1712707200": 2,
+      "1712793600": 1,
+      "1712880000": 1,
+      "1713052800": 1,
+      "1713139200": 1,
+      "1713225600": 1,
+      "1713312000": 1,
+      "1713484800": 1,
+      "1713571200": 2,
+      "1713744000": 1,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527145007,
+        "submitTime": 1714056513,
+        "question": {
+          "title": "Find Largest Value in Each Tree Row",
+          "translatedTitle": "在每个树行中找最大值",
+          "titleSlug": "find-largest-value-in-each-tree-row",
+          "questionFrontendId": "515"
+        }
+      },
+      {
+        "submissionId": 526824900,
+        "submitTime": 1713970239,
+        "question": {
+          "title": "N-ary Tree Level Order Traversal",
+          "translatedTitle": "N 叉树的层序遍历",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "questionFrontendId": "429"
+        }
+      },
+      {
+        "submissionId": 526160151,
+        "submitTime": 1713801541,
+        "question": {
+          "title": "Binary Tree Zigzag Level Order Traversal",
+          "translatedTitle": "二叉树的锯齿形层序遍历",
+          "titleSlug": "binary-tree-zigzag-level-order-traversal",
+          "questionFrontendId": "103"
+        }
+      },
+      {
+        "submissionId": 525521119,
+        "submitTime": 1713621818,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525290983,
+        "submitTime": 1713539358,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524626137,
+        "submitTime": 1713365058,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524280359,
+        "submitTime": 1713278935,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 523939643,
+        "submitTime": 1713195326,
+        "question": {
+          "title": "4Sum",
+          "translatedTitle": "四数之和",
+          "titleSlug": "4sum",
+          "questionFrontendId": "18"
+        }
+      },
+      {
+        "submissionId": 523569179,
+        "submitTime": 1713106110,
+        "question": {
+          "title": "3Sum",
+          "translatedTitle": "三数之和",
+          "titleSlug": "3sum",
+          "questionFrontendId": "15"
+        }
+      },
+      {
+        "submissionId": 522984844,
+        "submitTime": 1712932231,
+        "question": {
+          "title": "Ransom Note",
+          "translatedTitle": "赎金信",
+          "titleSlug": "ransom-note",
+          "questionFrontendId": "383"
+        }
+      },
+      {
+        "submissionId": 522668529,
+        "submitTime": 1712846243,
+        "question": {
+          "title": "4Sum II",
+          "translatedTitle": "四数相加 II",
+          "titleSlug": "4sum-ii",
+          "questionFrontendId": "454"
+        }
+      },
+      {
+        "submissionId": 522315446,
+        "submitTime": 1712760664,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 522310512,
+        "submitTime": 1712759925,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 521926337,
+        "submitTime": 1712674093,
+        "question": {
+          "title": "Happy Number",
+          "translatedTitle": "快乐数",
+          "titleSlug": "happy-number",
+          "questionFrontendId": "202"
+        }
+      },
+      {
+        "submissionId": 521516659,
+        "submitTime": 1712587438,
+        "question": {
+          "title": "Intersection of Two Arrays",
+          "translatedTitle": "两个数组的交集",
+          "titleSlug": "intersection-of-two-arrays",
+          "questionFrontendId": "349"
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "马德康",
+    "username": "madekang",
+    "realname": "Charming-Leakeyypc",
+    "canlendar": {
+      "1711324800": 3,
+      "1711411200": 2,
+      "1711756800": 5,
+      "1711843200": 3,
+      "1711929600": 1,
+      "1712016000": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 519586572,
+        "submitTime": 1712067016,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 519242447,
+        "submitTime": 1711985709,
+        "question": {
+          "title": "Minimum Size Subarray Sum",
+          "translatedTitle": "长度最小的子数组",
+          "titleSlug": "minimum-size-subarray-sum",
+          "questionFrontendId": "209"
+        }
+      },
+      {
+        "submissionId": 518557224,
+        "submitTime": 1711851227,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      },
+      {
+        "submissionId": 518450584,
+        "submitTime": 1711804509,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 518450255,
+        "submitTime": 1711804447,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 516942519,
+        "submitTime": 1711456640,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 516487650,
+        "submitTime": 1711368378,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      },
+      {
+        "submissionId": 516484107,
+        "submitTime": 1711367957,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "郭雅倩",
+    "username": "郭雅倩sugar",
+    "realname": "xuan-xiao-mf",
+    "canlendar": {
+      "1711756800": 10,
+      "1712275200": 3,
+      "1712361600": 4,
+      "1713139200": 1,
+      "1713225600": 1,
+      "1713484800": 1,
+      "1713744000": 2,
+      "1713830400": 1,
+      "1713916800": 1,
+      "1714003200": 1,
+      "1714089600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527390410,
+        "submitTime": 1714135503,
+        "question": {
+          "title": "N-ary Tree Level Order Traversal",
+          "translatedTitle": "N 叉树的层序遍历",
+          "titleSlug": "n-ary-tree-level-order-traversal",
+          "questionFrontendId": "429"
+        }
+      },
+      {
+        "submissionId": 527039586,
+        "submitTime": 1714036092,
+        "question": {
+          "title": "Average of Levels in Binary Tree",
+          "translatedTitle": "二叉树的层平均值",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "questionFrontendId": "637"
+        }
+      },
+      {
+        "submissionId": 526755282,
+        "submitTime": 1713958394,
+        "question": {
+          "title": "Binary Tree Right Side View",
+          "translatedTitle": "二叉树的右视图",
+          "titleSlug": "binary-tree-right-side-view",
+          "questionFrontendId": "199"
+        }
+      },
+      {
+        "submissionId": 526252875,
+        "submitTime": 1713843070,
+        "question": {
+          "title": "Binary Tree Level Order Traversal II",
+          "translatedTitle": "二叉树的层序遍历 II",
+          "titleSlug": "binary-tree-level-order-traversal-ii",
+          "questionFrontendId": "107"
+        }
+      },
+      {
+        "submissionId": 526140013,
+        "submitTime": 1713797660,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 525076436,
+        "submitTime": 1713495734,
+        "question": {
+          "title": "Symmetric Tree",
+          "translatedTitle": "对称二叉树",
+          "titleSlug": "symmetric-tree",
+          "questionFrontendId": "101"
+        }
+      },
+      {
+        "submissionId": 523985642,
+        "submitTime": 1713231404,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 523939239,
+        "submitTime": 1713195233,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 520669339,
+        "submitTime": 1712402718,
+        "question": {
+          "title": "两数之和 II - 输入有序数组",
+          "translatedTitle": "两数之和 II - 输入有序数组",
+          "titleSlug": "kLl5u1",
+          "questionFrontendId": "LCR 006"
+        }
+      },
+      {
+        "submissionId": 520668142,
+        "submitTime": 1712402421,
+        "question": {
+          "title": "Concatenation of Array",
+          "translatedTitle": "数组串联",
+          "titleSlug": "concatenation-of-array",
+          "questionFrontendId": "1929"
+        }
+      },
+      {
+        "submissionId": 520666215,
+        "submitTime": 1712401937,
+        "question": {
+          "title": "Remove Duplicates from Sorted Array",
+          "translatedTitle": "删除有序数组中的重复项",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "questionFrontendId": "26"
+        }
+      },
+      {
+        "submissionId": 520663831,
+        "submitTime": 1712401315,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 520452858,
+        "submitTime": 1712328962,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 520452037,
+        "submitTime": 1712328786,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 518497558,
+        "submitTime": 1711811780,
+        "question": {
+          "title": "Spiral Matrix II",
+          "translatedTitle": "螺旋矩阵 II",
+          "titleSlug": "spiral-matrix-ii",
+          "questionFrontendId": "59"
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "任吉瑞",
+    "username": "俈",
+    "realname": "fryZpRBnWq",
+    "canlendar": {
+      "1711497600": 3,
+      "1711756800": 2,
+      "1711843200": 7,
+      "1712016000": 2,
+      "1712102400": 2,
+      "1712188800": 2,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712793600": 3,
+      "1713225600": 1,
+      "1713312000": 3,
+      "1713398400": 1,
+      "1713830400": 4
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 526323316,
+        "submitTime": 1713857486,
+        "question": {
+          "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "translatedTitle": "从前序与中序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "questionFrontendId": "105"
+        }
+      },
+      {
+        "submissionId": 526323119,
+        "submitTime": 1713857462,
+        "question": {
+          "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+          "translatedTitle": "从中序与后序遍历序列构造二叉树",
+          "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+          "questionFrontendId": "106"
+        }
+      },
+      {
+        "submissionId": 524988009,
+        "submitTime": 1713453135,
+        "question": {
+          "title": "Binary Tree Level Order Traversal",
+          "translatedTitle": "二叉树的层序遍历",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "questionFrontendId": "102"
+        }
+      },
+      {
+        "submissionId": 524637467,
+        "submitTime": 1713367107,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524637390,
+        "submitTime": 1713367092,
+        "question": {
+          "title": "Binary Tree Inorder Traversal",
+          "translatedTitle": "二叉树的中序遍历",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "questionFrontendId": "94"
+        }
+      },
+      {
+        "submissionId": 524637091,
+        "submitTime": 1713367035,
+        "question": {
+          "title": "Binary Tree Postorder Traversal",
+          "translatedTitle": "二叉树的后序遍历",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "questionFrontendId": "145"
+        }
+      },
+      {
+        "submissionId": 524272197,
+        "submitTime": 1713277626,
+        "question": {
+          "title": "Binary Tree Preorder Traversal",
+          "translatedTitle": "二叉树的前序遍历",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "questionFrontendId": "144"
+        }
+      },
+      {
+        "submissionId": 522677395,
+        "submitTime": 1712847766,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522676944,
+        "submitTime": 1712847687,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 521892740,
+        "submitTime": 1712669771,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 521505196,
+        "submitTime": 1712585907,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 520173856,
+        "submitTime": 1712242399,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 520173824,
+        "submitTime": 1712242393,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519931980,
+        "submitTime": 1712156411,
+        "question": {
+          "title": "Design Linked List",
+          "translatedTitle": "设计链表",
+          "titleSlug": "design-linked-list",
+          "questionFrontendId": "707"
+        }
+      },
+      {
+        "submissionId": 519622561,
+        "submitTime": 1712072276,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "杨凯杰",
+    "username": "缅甸腰王",
+    "realname": "mian-dian-yao-wang",
+    "canlendar": {
+      "1711324800": 2,
+      "1711411200": 1,
+      "1711756800": 2,
+      "1711929600": 3,
+      "1712016000": 2,
+      "1712102400": 1,
+      "1712620800": 3,
+      "1712707200": 1,
+      "1712966400": 1,
+      "1713052800": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 523348031,
+        "submitTime": 1713064731,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 523261343,
+        "submitTime": 1713021421,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519629252,
+        "submitTime": 1712073811,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 519621823,
+        "submitTime": 1712072124,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 518965057,
+        "submitTime": 1711943512,
+        "question": {
+          "title": "Valid Perfect Square",
+          "translatedTitle": "有效的完全平方数",
+          "titleSlug": "valid-perfect-square",
+          "questionFrontendId": "367"
+        }
+      },
+      {
+        "submissionId": 518513168,
+        "submitTime": 1711814398,
+        "question": {
+          "title": "Squares of a Sorted Array",
+          "translatedTitle": "有序数组的平方",
+          "titleSlug": "squares-of-a-sorted-array",
+          "questionFrontendId": "977"
+        }
+      },
+      {
+        "submissionId": 518501978,
+        "submitTime": 1711812447,
+        "question": {
+          "title": "Remove Element",
+          "translatedTitle": "移除元素",
+          "titleSlug": "remove-element",
+          "questionFrontendId": "27"
+        }
+      },
+      {
+        "submissionId": 516930295,
+        "submitTime": 1711455431,
+        "question": {
+          "title": "Search Insert Position",
+          "translatedTitle": "搜索插入位置",
+          "titleSlug": "search-insert-position",
+          "questionFrontendId": "35"
+        }
+      },
+      {
+        "submissionId": 516485531,
+        "submitTime": 1711368133,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "王凌霄",
+    "username": "找不到裤裤",
+    "realname": "focused-kirchubo",
+    "canlendar": {
+      "1711756800": 7,
+      "1711843200": 3,
+      "1712361600": 9,
+      "1712448000": 19,
+      "1712793600": 5,
+      "1712966400": 51,
+      "1713225600": 29,
+      "1713398400": 12,
+      "1713657600": 3,
+      "1713744000": 23,
+      "1713830400": 17,
+      "1713916800": 1,
+      "1714003200": 1,
+      "1714089600": 6
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 527373135,
+        "submitTime": 1714131120,
+        "question": {
+          "title": "Reverse Integer",
+          "translatedTitle": "整数反转",
+          "titleSlug": "reverse-integer",
+          "questionFrontendId": "7"
+        }
+      },
+      {
+        "submissionId": 527084177,
+        "submitTime": 1714045981,
+        "question": {
+          "title": "Zigzag Conversion",
+          "translatedTitle": "Z 字形变换",
+          "titleSlug": "zigzag-conversion",
+          "questionFrontendId": "6"
+        }
+      },
+      {
+        "submissionId": 526812288,
+        "submitTime": 1713967996,
+        "question": {
+          "title": "Palindrome Number",
+          "translatedTitle": "回文数",
+          "titleSlug": "palindrome-number",
+          "questionFrontendId": "9"
+        }
+      },
+      {
+        "submissionId": 526329557,
+        "submitTime": 1713858289,
+        "question": {
+          "title": "Longest Palindromic Substring",
+          "translatedTitle": "最长回文子串",
+          "titleSlug": "longest-palindromic-substring",
+          "questionFrontendId": "5"
+        }
+      },
+      {
+        "submissionId": 526328962,
+        "submitTime": 1713858211,
+        "question": {
+          "title": "Longest Palindromic Substring",
+          "translatedTitle": "最长回文子串",
+          "titleSlug": "longest-palindromic-substring",
+          "questionFrontendId": "5"
+        }
+      },
+      {
+        "submissionId": 526312293,
+        "submitTime": 1713856030,
+        "question": {
+          "title": "Longest Palindromic Substring",
+          "translatedTitle": "最长回文子串",
+          "titleSlug": "longest-palindromic-substring",
+          "questionFrontendId": "5"
+        }
+      },
+      {
+        "submissionId": 526312157,
+        "submitTime": 1713856012,
+        "question": {
+          "title": "Longest Palindromic Substring",
+          "translatedTitle": "最长回文子串",
+          "titleSlug": "longest-palindromic-substring",
+          "questionFrontendId": "5"
+        }
+      },
+      {
+        "submissionId": 526123556,
+        "submitTime": 1713795214,
+        "question": {
+          "title": "Longest Substring Without Repeating Characters",
+          "translatedTitle": "无重复字符的最长子串",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "questionFrontendId": "3"
+        }
+      },
+      {
+        "submissionId": 526119763,
+        "submitTime": 1713794668,
+        "question": {
+          "title": "Two Sum",
+          "translatedTitle": "两数之和",
+          "titleSlug": "two-sum",
+          "questionFrontendId": "1"
+        }
+      },
+      {
+        "submissionId": 526119187,
+        "submitTime": 1713794586,
+        "question": {
+          "title": "Two Sum",
+          "translatedTitle": "两数之和",
+          "titleSlug": "two-sum",
+          "questionFrontendId": "1"
+        }
+      },
+      {
+        "submissionId": 525650968,
+        "submitTime": 1713679692,
+        "question": {
+          "title": "Candy",
+          "translatedTitle": "分发糖果",
+          "titleSlug": "candy",
+          "questionFrontendId": "135"
+        }
+      },
+      {
+        "submissionId": 524817629,
+        "submitTime": 1713424698,
+        "question": {
+          "title": "Majority Element",
+          "translatedTitle": "多数元素",
+          "titleSlug": "majority-element",
+          "questionFrontendId": "169"
+        }
+      },
+      {
+        "submissionId": 524817050,
+        "submitTime": 1713424631,
+        "question": {
+          "title": "Majority Element",
+          "translatedTitle": "多数元素",
+          "titleSlug": "majority-element",
+          "questionFrontendId": "169"
+        }
+      },
+      {
+        "submissionId": 524816417,
+        "submitTime": 1713424539,
+        "question": {
+          "title": "Majority Element",
+          "translatedTitle": "多数元素",
+          "titleSlug": "majority-element",
+          "questionFrontendId": "169"
+        }
+      },
+      {
+        "submissionId": 524814547,
+        "submitTime": 1713424320,
+        "question": {
+          "title": "Majority Element",
+          "translatedTitle": "多数元素",
+          "titleSlug": "majority-element",
+          "questionFrontendId": "169"
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "张韶卿",
+    "username": "zhangsq",
+    "realname": "benbener",
+    "canlendar": {},
+    "recentAcSubmissions": []
+  },
+  {
+    "id": 30,
+    "name": "张艺凡",
+    "username": "percccccccs",
+    "realname": "percccccccs",
+    "canlendar": {
+      "1710115200": 1,
+      "1710288000": 1,
+      "1710374400": 2,
+      "1710460800": 1,
+      "1710633600": 1,
+      "1710720000": 3,
+      "1710806400": 1,
+      "1710892800": 3,
+      "1710979200": 1,
+      "1711324800": 13,
+      "1711584000": 5,
+      "1711756800": 2,
+      "1711843200": 2,
+      "1711929600": 1,
+      "1712016000": 3,
+      "1712966400": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 523007334,
+        "submitTime": 1712937922,
+        "question": {
+          "title": "Array Reduce Transformation",
+          "translatedTitle": "数组归约运算",
+          "titleSlug": "array-reduce-transformation",
+          "questionFrontendId": "2626"
+        }
+      },
+      {
+        "submissionId": 519623778,
+        "submitTime": 1712072548,
+        "question": {
+          "title": "Interval Cancellation",
+          "translatedTitle": "间隔取消",
+          "titleSlug": "interval-cancellation",
+          "questionFrontendId": "2725"
+        }
+      },
+      {
+        "submissionId": 519617594,
+        "submitTime": 1712071397,
+        "question": {
+          "title": "Return Length of Arguments Passed",
+          "translatedTitle": "返回传递的参数的长度",
+          "titleSlug": "return-length-of-arguments-passed",
+          "questionFrontendId": "2703"
+        }
+      },
+      {
+        "submissionId": 519213557,
+        "submitTime": 1711981276,
+        "question": {
+          "title": "Check if Object Instance of Class",
+          "translatedTitle": "检查是否是类的对象实例",
+          "titleSlug": "check-if-object-instance-of-class",
+          "questionFrontendId": "2618"
+        }
+      },
+      {
+        "submissionId": 518845051,
+        "submitTime": 1711897754,
+        "question": {
+          "title": "Timeout Cancellation",
+          "translatedTitle": "执行可取消的延迟函数",
+          "titleSlug": "timeout-cancellation",
+          "questionFrontendId": "2715"
+        }
+      },
+      {
+        "submissionId": 518468755,
+        "submitTime": 1711807777,
+        "question": {
+          "title": "Snail Traversal",
+          "translatedTitle": "蜗牛排序",
+          "titleSlug": "snail-traversal",
+          "questionFrontendId": "2624"
+        }
+      },
+      {
+        "submissionId": 517800516,
+        "submitTime": 1711632868,
+        "question": {
+          "title": "Add Two Promises",
+          "translatedTitle": "两个 Promise 对象相加",
+          "titleSlug": "add-two-promises",
+          "questionFrontendId": "2723"
+        }
+      },
+      {
+        "submissionId": 517796655,
+        "submitTime": 1711632344,
+        "question": {
+          "title": "Chunk Array",
+          "translatedTitle": "分块数组",
+          "titleSlug": "chunk-array",
+          "questionFrontendId": "2677"
+        }
+      },
+      {
+        "submissionId": 517792958,
+        "submitTime": 1711631848,
+        "question": {
+          "title": "Chunk Array",
+          "translatedTitle": "分块数组",
+          "titleSlug": "chunk-array",
+          "questionFrontendId": "2677"
+        }
+      },
+      {
+        "submissionId": 516550503,
+        "submitTime": 1711374888,
+        "question": {
+          "title": "Apply Transform Over Each Element in Array",
+          "translatedTitle": "转换数组中的每个元素",
+          "titleSlug": "apply-transform-over-each-element-in-array",
+          "questionFrontendId": "2635"
+        }
+      },
+      {
+        "submissionId": 516543252,
+        "submitTime": 1711374123,
+        "question": {
+          "title": "Array Wrapper",
+          "translatedTitle": "包装数组",
+          "titleSlug": "array-wrapper",
+          "questionFrontendId": "2695"
+        }
+      },
+      {
+        "submissionId": 516541621,
+        "submitTime": 1711373959,
+        "question": {
+          "title": "Create Hello World Function",
+          "translatedTitle": "创建 Hello World 函数",
+          "titleSlug": "create-hello-world-function",
+          "questionFrontendId": "2667"
+        }
+      },
+      {
+        "submissionId": 516538447,
+        "submitTime": 1711373639,
+        "question": {
+          "title": "To Be Or Not To Be",
+          "translatedTitle": "相等还是不相等",
+          "titleSlug": "to-be-or-not-to-be",
+          "questionFrontendId": "2704"
+        }
+      },
+      {
+        "submissionId": 516530554,
+        "submitTime": 1711372830,
+        "question": {
+          "title": "Allow One Function Call",
+          "translatedTitle": "只允许一次函数调用",
+          "titleSlug": "allow-one-function-call",
+          "questionFrontendId": "2666"
+        }
+      },
+      {
+        "submissionId": 515019660,
+        "submitTime": 1711030834,
+        "question": {
+          "title": "Counter II",
+          "translatedTitle": "计数器 II",
+          "titleSlug": "counter-ii",
+          "questionFrontendId": "2665"
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "成亚楠",
+    "username": "chengnnn",
+    "realname": "happy-vvilburi3l",
+    "canlendar": {
+      "1711929600": 3,
+      "1712016000": 1,
+      "1712102400": 1,
+      "1712188800": 1,
+      "1712534400": 1,
+      "1712620800": 1,
+      "1712707200": 1,
+      "1712793600": 1
+    },
+    "recentAcSubmissions": [
+      {
+        "submissionId": 522693766,
+        "submitTime": 1712851127,
+        "question": {
+          "title": "Linked List Cycle II",
+          "translatedTitle": "环形链表 II",
+          "titleSlug": "linked-list-cycle-ii",
+          "questionFrontendId": "142"
+        }
+      },
+      {
+        "submissionId": 522328697,
+        "submitTime": 1712762875,
+        "question": {
+          "title": "Intersection of Two Linked Lists LCCI",
+          "translatedTitle": "链表相交",
+          "titleSlug": "intersection-of-two-linked-lists-lcci",
+          "questionFrontendId": "面试题 02.07"
+        }
+      },
+      {
+        "submissionId": 521950324,
+        "submitTime": 1712678070,
+        "question": {
+          "title": "Remove Nth Node From End of List",
+          "translatedTitle": "删除链表的倒数第 N 个结点",
+          "titleSlug": "remove-nth-node-from-end-of-list",
+          "questionFrontendId": "19"
+        }
+      },
+      {
+        "submissionId": 521509616,
+        "submitTime": 1712586476,
+        "question": {
+          "title": "Swap Nodes in Pairs",
+          "translatedTitle": "两两交换链表中的节点",
+          "titleSlug": "swap-nodes-in-pairs",
+          "questionFrontendId": "24"
+        }
+      },
+      {
+        "submissionId": 520187439,
+        "submitTime": 1712245803,
+        "question": {
+          "title": "Reverse Linked List",
+          "translatedTitle": "反转链表",
+          "titleSlug": "reverse-linked-list",
+          "questionFrontendId": "206"
+        }
+      },
+      {
+        "submissionId": 519944762,
+        "submitTime": 1712159627,
+        "question": {
+          "title": "Design Linked List",
+          "translatedTitle": "设计链表",
+          "titleSlug": "design-linked-list",
+          "questionFrontendId": "707"
+        }
+      },
+      {
+        "submissionId": 519628385,
+        "submitTime": 1712073578,
+        "question": {
+          "title": "Remove Linked List Elements",
+          "translatedTitle": "移除链表元素",
+          "titleSlug": "remove-linked-list-elements",
+          "questionFrontendId": "203"
+        }
+      },
+      {
+        "submissionId": 519078892,
+        "submitTime": 1711961707,
+        "question": {
+          "title": "Binary Search",
+          "translatedTitle": "二分查找",
+          "titleSlug": "binary-search",
+          "questionFrontendId": "704"
+        }
+      }
+    ]
+  }
+]
